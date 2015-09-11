@@ -22,6 +22,7 @@ sudo apt-get --yes install \
   libssl-dev               \
   llvm                     \
   make                     \
+  pkg-config               \
   python-wxgtk2.8          \
   wget                     \
   zlib1g-dev
