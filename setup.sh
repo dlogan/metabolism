@@ -30,7 +30,7 @@ sudo apt-get --yes install \
 sudo apt-get --yes autoremove
 
 if ! cd $HOME/.pyenv; then
-  git clone git://github.com/yyuu/pyenv.git $HOME/.pyenv
+  git clone https://github.com/yyuu/pyenv.git $HOME/.pyenv
 fi
 
 if ! cd $HOME/.pyenv/plugins/pyenv-virtualenv; then
