@@ -22,5 +22,5 @@ vagrant ssh
 
 Start CellProfiler Analyst
 ```sh
-python /Vagrant/CellProfiler-Analyst/CellProfiler-Analyst.py
+python /vagrant/CellProfiler-Analyst/CellProfiler-Analyst.py
 ```
